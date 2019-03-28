@@ -13,5 +13,9 @@ and the elements should occupy the entire line
 ## Display flex
 Same goal as the last one, but using display flex instead (Recommended way to do it!)
 
+### Next exercises
+- Float
+- Position static, relative, absolute and fixed
+
 Source:
 - CollabCode: https://www.youtube.com/playlist?list=PLirko8T4cEmx5eBb1-9j6T6Gl4aBtZ_5x  

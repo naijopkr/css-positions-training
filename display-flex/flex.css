@@ -1,5 +1,7 @@
 .example-list {
   color: white;
+  display: flex;
+  justify-content: space-between;
 }
 
 .example-item {

@@ -1,0 +1,20 @@
+.example-list {
+  color: white;
+}
+
+.example-item {
+  width: 33.333%;
+  height: 150px;
+}
+
+#first {
+  background: #faa116;
+}
+
+#second {
+  background: #57c7c3;
+}
+
+#third {
+  background: #3b97d3;
+}

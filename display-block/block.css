@@ -3,7 +3,8 @@
 }
 
 .example-item {
-  display: inline;
+  width: 33.333%;
+  height: 150px;
 }
 
 #first {

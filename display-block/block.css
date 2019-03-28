@@ -1,0 +1,19 @@
+.example-list {
+  color: white;
+}
+
+.example-item {
+  display: inline;
+}
+
+#first {
+  background: #faa116;
+}
+
+#second {
+  background: #57c7c3;
+}
+
+#third {
+  background: #3b97d3;
+}

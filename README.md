@@ -13,6 +13,10 @@ and the elements should occupy the entire line
 ## Display flex
 Same goal as the last one, but using display flex instead (Recommended way to do it!)
 
+## Float and clear
+Display the div elements floating. The first to the left and the second to the right.
+The p element must stay below the divs. And the text should be centralized in the divs.
+
 ### Next exercises
 - Float
 - Position static, relative, absolute and fixed

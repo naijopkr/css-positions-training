@@ -9,8 +9,10 @@
 
 .first-element {
   background: #8e44ad;
+  float: left;
 }
 
 .second-element {
-  background: #c0392b
+  background: #c0392b;
+  float: right;
 }

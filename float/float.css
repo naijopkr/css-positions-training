@@ -1,0 +1,16 @@
+.element {
+  width: 200px;
+  height: 200px;
+  line-height: 200px;
+  color: #fff;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.first-element {
+  background: #8e44ad;
+}
+
+.second-element {
+  background: #c0392b
+}

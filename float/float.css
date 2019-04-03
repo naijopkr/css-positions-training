@@ -16,3 +16,7 @@
   background: #c0392b;
   float: right;
 }
+
+.paragraph {
+  clear: both;
+}

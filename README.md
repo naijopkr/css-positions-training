@@ -18,7 +18,6 @@ Display the div elements floating. The first to the left and the second to the r
 The p element must stay below the divs. And the text should be centralized in the divs.
 
 ### Next exercises
-- Float
 - Position static, relative, absolute and fixed
 
 Source:
